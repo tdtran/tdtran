@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- I'm Trung Duc Tran
+- I've been a computer programmer for a few decades and still enjoy it
+- I've been running a successful 1-man software business for more than a decade
+- I'm a skeptical technologist
+- I’m on Twitter https://twitter.com/tdtran
+- I’m on Mastodon <a rel="me" href="https://hachyderm.io/@tdtran">https://hachyderm.io/@tdtran</a>
+
 <!--
 **tdtran/tdtran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
