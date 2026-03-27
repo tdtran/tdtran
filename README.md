@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 - I'm Trung Duc Tran
-- I've been a computer programmer for a few decades and still enjoy it
-- I've been running a successful 1-man software business for more than a decade
-- I'm a skeptical technologist
+- I've been a software engineer for a few decades and still enjoy it
 - I’m on Mastodon <a rel="me" href="https://hachyderm.io/@tdtran">https://hachyderm.io/@tdtran</a>
 
 <!--
